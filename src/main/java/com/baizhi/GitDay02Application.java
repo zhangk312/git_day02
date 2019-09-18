@@ -9,6 +9,7 @@ public class GitDay02Application {
     public static void main(String[] args) {
         SpringApplication.run(GitDay02Application.class, args);
         System.out.println("123");
+        System.out.println("456");
     }
 
 }
